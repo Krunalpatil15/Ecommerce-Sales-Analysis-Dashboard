@@ -67,16 +67,21 @@ Power BI dashboard file (.pbix) is included in this repository.
 
 ---
 
-## 🙋‍♂️ About Me
+## Author
 
-I am a fresher Data Analyst skilled in Excel, SQL, Power BI, and Python.
-I enjoy working with data and building dashboards to generate meaningful insights.
+**Krunal Patil**
 
----
+MCA Graduate | Aspiring Data Analyst
 
-## 🔗 Connect with Me
+### Skills
+SQL | Power BI | Excel | Python | Data Visualization | Data Analytics | Machine Learning
 
-LinkedIn: http://www.linkedin.com/in/krunal-patil-ab10172b9
-GitHub: https://github.com/Krunalpatil15
+### Connect With Me
 
----
+📧 Email: pkrunalpatil26@gmail.com
+
+💼 LinkedIn: https://linkedin.com/in/krunal-patil-ab10172b9
+
+💻 GitHub: https://github.com/Krunalpatil15
+
+I am passionate about transforming raw data into meaningful insights through analytics, visualization, and business intelligence.
